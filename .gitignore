@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+.venv/
+venv/
+
+# ML artifacts (do not commit)
+*.pkl
+*.h5
+*.pb
+*.tflite
+
+# Datasets (do not commit)
+data/
+*.csv
+
+# Exported model for extension (generated)
+extension/model_export.json
+
+# OS/IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
