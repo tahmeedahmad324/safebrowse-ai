@@ -380,29 +380,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-## 📧 Contact
-
-**Project Maintainer:** [Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-**Project Link:** [https://github.com/yourusername/safebrowse-ai](https://github.com/yourusername/safebrowse-ai)
-
----
-
-## 📊 Project Status
-
-🚀 **Active Development** - Currently implementing browser extension integration
-
-**Latest Version:** 1.0.0  
-**Last Updated:** December 2025
-
----
-
-<div align="center">
-
-**Made with ❤️ for safer browsing**
-
 [⬆ Back to Top](#-safebrowse-ai)
 
 </div>
